@@ -1,26 +1,26 @@
-# 🛠️ Python-Data-Toolkit
+# 🛠️ Python Data Toolkit: Modular Analytics Foundations
 
-This repository is a curated collection of my early Python scripts, focusing on mastering **NumPy** and **Pandas** fundamentals. These scripts serve as the technical "stepping stones" I built before moving into complex Machine Learning and Agentic AI workflows.
+This repository contains a collection of professional-grade Python modules designed for scalability and reusability. These scripts serve as the technical "foundational blocks" for my work in **Analytics Engineering** and **Data Science**, moving beyond basic scripts into **Object-Oriented Programming (OOP)**.
 
 ### 🎯 Objective
-To demonstrate core competency in Python logic, data manipulation, and basic visualization without the use of high-level frameworks or AI assistance.
+To demonstrate core competency in building modular data tools, implementing mathematical modeling, and performing advanced statistical validation without the use of high-level "black-box" frameworks.
 
 ### 📁 What's Inside?
 
-#### 1. Basic Logic (`/01_Basic_Logic`)
-- **Simple Calculator:** A script using conditional logic (`if-elif-else`) and functions to perform arithmetic operations. This helped me master Python syntax and error handling (try-except blocks).
+#### 1. Professional Logic Engine (`/01_Basic_Logic`)
+- **Financial Growth Analyst:** A Class-based tool that performs compound interest modeling. This module demonstrates **Object-Oriented Programming (OOP)** principles, including class initialization, method isolation, and encapsulated mathematical logic.
 
-#### 2. Data Handling (`/02_Data_Handling`)
-- **CSV Stat Reader:** A Pandas-based script that reads a raw dataset, identifies missing values, and calculates basic statistics (Mean, Median, Mode) from scratch.
+#### 2. Automated Data Engineering (`/02_Data_Handling`)
+- **Automated Preprocessing Pipeline:** A robust data cleaning class that handles missing values dynamically. It uses logic-based imputation (filling numerical data with the **Median** and categorical data with the **Mode**), ensuring datasets are "ML-ready" for large-scale pipelines.
 
-#### 3. Visualizations (`/03_Visualizations`)
-- **Plotting Fundamentals:** Practice scripts using **Matplotlib** and **Seaborn** to create histograms and scatter plots, focusing on proper axis labeling and data distribution.
+#### 3. Advanced Statistical Visualization (`/03_Visualizations`)
+- **Comparative Distribution Analyst:** A tool built with **Seaborn** and **SciPy** that overlays an observed data distribution with a theoretical **Gaussian (Normal) Curve**. This is used to visually validate data "health" and check for skewness before feeding features into a model.
 
 ---
 
-### 🧠 Why this exists
-In my journey as an **MS Computer Science student at CSU**, I believe in the "Basics First" philosophy. Understanding how data moves through a simple list or a dictionary is what allows me to debug complex LLM chains today.
+### 🧠 The Engineering Mindset
+As an **MS Computer Science student at CSU**, I focus on "Code Reliability." By building these foundational tools as reusable classes, I ensure that my data cleaning and analysis processes are consistent, easy to debug, and production-ready.
 
 ---
 **Author:** Harshini (@Hercodes-ux)  
-**Status:** Completed Foundation Phase
+**Status:** Phase 1 (Foundations) - COMPLETE ✅
