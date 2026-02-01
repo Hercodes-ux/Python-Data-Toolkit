@@ -29,7 +29,7 @@ def plot_comparison(data):
     # --- FIX WAS HERE: Added the 'd' to legend() ---
     plt.legend()
     
-    # 3. Save the image (Good for GitHub READMEs)
+    # 3. Save the image 
     plt.savefig("distribution_plot.png")
     
     # Display the chart
